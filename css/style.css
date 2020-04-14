@@ -363,7 +363,7 @@ body {
     box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.4);
     transition: all 0.2s;
     outline-offset: 1.5rem;
-    z-index: 15;
+    z-index: 14;
     cursor: pointer; }
     @media (max-width: 56.25em) {
       .composition__photo {
