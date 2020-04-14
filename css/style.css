@@ -386,7 +386,7 @@ body {
           top: 0rem;
           left: 0rem;
           transform: scale(1.4);
-          z-index: 100; } }
+          z-index: 15; } }
     .composition__photo--p3 {
       top: 10rem;
       left: 20%; }
@@ -399,7 +399,7 @@ body {
       transform: translateY(-0.5rem) scale(1.05);
       box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.5);
       outline: 1rem solid #55c57a;
-      z-index: 110; }
+      z-index: 16; }
       @media (max-width: 56.25em) {
         .composition__photo:hover {
           transform: scale(1.4); } }
